@@ -40,6 +40,7 @@ section.dokumentasi h4{
 }
 .text{
     font-family: Lato, sans-serif;
+    text-align: justify;
 }
 
 section.testimoni h2{
@@ -64,6 +65,10 @@ section.about h2{
     padding-top: 2%;
     padding-bottom: 2%;
 
+}
+#rata-text {
+    text-align: justify;
+    
 }
 section.alamat-1 h2{
     text-align: center;
