@@ -1,19 +1,18 @@
-body{
-    background-color: #F0F8FF;
+body {
+  background-color: #f0f8ff;
 }
-a.navbar-brand{
-    font-family: 'Pacifico', cursive;
+a.navbar-brand {
+  font-family: "Pacifico", cursive;
 }
-a.navbar-brand img{
-    padding-bottom: 3%;
+a.navbar-brand img {
+  padding-bottom: 3%;
 }
-a.nav-link{
-    font-family: 'Montserrat', sans-serif;
-    
+a.nav-link {
+  font-family: "Montserrat", sans-serif;
 }
-.container-fluid{
-    margin-right: 5%;
-    margin-left: 5%;
+.container-fluid {
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 /* a.nav-link:hover{
@@ -22,134 +21,129 @@ a.nav-link{
     border: none;
     display: inline-flex;
 } */
-a.nav-link img{
-    padding-bottom: 3%;
+a.nav-link img {
+  padding-bottom: 3%;
 }
 a.nav-link {
-    margin-right:5px;
+  margin-right: 5px;
 }
-section.main{
-    font-family: 'Pacifico', cursive;
-    text-align: center;
-    padding-top: 2%;
-    padding-bottom: 2%;
+section.main {
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
-section.dokumentasi h4{
-    text-align: center;
-    padding-top: 1%;
+section.dokumentasi h4 {
+  text-align: center;
+  padding-top: 1%;
 }
-.text{
-    font-family: Lato, sans-serif;
-    text-align: justify;
+.text {
+  font-family: Lato, sans-serif;
+  text-align: justify;
 }
 
-section.testimoni h2{
-    text-align: center;
-    font-family: 'Pacifico', cursive;
-    padding-top: 2%;
+section.testimoni h2 {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  padding-top: 2%;
 }
-section.visi h2{
-    text-align: center;
-    font-family: 'Pacifico', cursive;
-    padding-bottom: 1%;
+section.visi h2 {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  padding-bottom: 1%;
 }
-section.visi .container{
-    
-    text-align: center;
-    margin-bottom: 5%;
-    
+section.visi .container {
+  text-align: center;
+  margin-bottom: 5%;
 }
-section.about h2{
-    text-align: center;
-    font-family: 'Pacifico', cursive;
-    padding-top: 2%;
-    padding-bottom: 2%;
-
+section.visi p {
+  text-align: justify;
+}
+section.about h2 {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
 #rata-text {
-    text-align: justify;
-    
+  text-align: justify;
 }
-section.alamat-1 h2{
-    text-align: center;
-    font-family: 'Pacifico', cursive;
-    padding-top: 2%;
-    padding-bottom: 2%;
-
+section.alamat-1 h2 {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
-section.alamat{
-    margin-bottom: 20px;
+section.alamat {
+  margin-bottom: 20px;
 }
-.col-md-6 img{
-    border-radius: 10px;
-    border: none;
+.col-md-6 img {
+  border-radius: 10px;
+  border: none;
 }
 
-section.product h2{
-    text-align: center;
-    font-family: 'Pacifico', cursive;
-    padding-top: 12%;
-    padding-bottom: 2%;
+section.product h2 {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+  padding-top: 12%;
+  padding-bottom: 2%;
 }
 
 #card-responsive {
-    width: 100%;
-    max-width: 18rem;
+  width: 100%;
+  max-width: 18rem;
 }
-.col-md-3{
-    padding-right: 20px;
+.col-md-3 {
+  padding-right: 20px;
 }
-section.product .row{
-    margin-top: 3%;
-    margin-bottom: 7%;
+section.product .row {
+  margin-top: 3%;
+  margin-bottom: 7%;
 }
-.col-md-3 .card{
-    text-align: center;
-    
+.col-md-3 .card {
+  text-align: center;
 }
 section.pop-up h3 {
-    text-align: center;
+  text-align: center;
 }
-section.question{ 
-    align-items: center;
+section.question {
+  align-items: center;
 }
 .card {
-    border: none
+  border: none;
 }
 
 .user-content p {
-    margin-top: 5px;
-    font-size: 12px
+  margin-top: 5px;
+  font-size: 12px;
 }
 
 .ratings i {
-    color: gold;
+  color: gold;
 }
-section.footer footer{ 
-    padding: 1.2%;
-    text-align: center;
-    color: whitesmoke;
-    
+section.footer footer {
+  padding: 1.2%;
+  text-align: center;
+  color: whitesmoke;
 }
 #btn-back-to-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    display: none;
-  }
-.responsive-iframe {
-    width: 100%;
-    max-width: 560px;
-    height: 345px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
 }
-.responsive-img{
-    width: 100%;
-    max-width: 600px;
-    height: 370px;
-    
+.responsive-iframe {
+  width: 100%;
+  max-width: 560px;
+  height: 345px;
+}
+.responsive-img {
+  width: 100%;
+  max-width: 600px;
+  height: 370px;
 }
 .responsive-maps {
-    width: 100%;
-    max-width: 600px;
-    height: 390px;
+  width: 100%;
+  max-width: 600px;
+  height: 390px;
 }
